@@ -1,18 +1,22 @@
 
-# 🧠 Data Analysis Practice
+# Data Analysis Practice
 
-This repository contains my training projects in **Data Analysis** using Python (Pandas, NumPy, Matplotlib, and Seaborn).
+This repository contains my training projects in **Data Analysis** using Python (Pandas, NumPy, Matplotlib, Seaborn).
 
-## 📊 Project Overview
-The goal of this project is to practice data cleaning, visualization, and basic statistical analysis.  
-I used a sample dataset to explore trends, detect missing values, and visualize relationships between variables.
+## 📁 Project Overview
+The goal of this project is to practice:
+- Data cleaning (missing values, duplicates)  
+- Exploratory Data Analysis (EDA)  
+- Visualization of relationships  
+- Basic statistical summaries  
+- Drawing insights from data
 
-## 🧰 Tools and Libraries
-- Python 🐍  
+## 🧰 Tools & Libraries
+- Python  
 - Pandas  
 - NumPy  
 - Matplotlib  
 - Seaborn  
 - Jupyter Notebook  
 
-## 📁 Folder Structure
+## 📂 Folder Structure
