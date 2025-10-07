@@ -19,4 +19,4 @@ The goal of this project is to practice:
 - Seaborn  
 - Jupyter Notebook  
 
-## 📂 Folder Structure
+
