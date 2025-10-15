@@ -18,5 +18,6 @@ The goal of this project is to practice:
 - Matplotlib  
 - Seaborn  
 - Jupyter Notebook  
-
+############################################################
+for run pretrained file X_ray_pretrained have to download kaggle.json file and change path of file in code 
 
