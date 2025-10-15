@@ -19,5 +19,5 @@ The goal of this project is to practice:
 - Seaborn  
 - Jupyter Notebook  
 ############################################################
-for run pretrained file X_ray_pretrained have to download kaggle.json file and change path of file in code 
+for run pretrained file X_ray_pretrained have to download kaggle.json for when the code running need to choose kaggle file for use pretrained dataset 
 
