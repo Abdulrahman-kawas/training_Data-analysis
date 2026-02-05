@@ -11,7 +11,7 @@ The goal of this project is to practice:
 - Basic statistical summaries  
 - Drawing insights from data
 
-## 🧰 Tools & Libraries
+##  Tools & Libraries
 - Python  
 - Pandas  
 - NumPy  
